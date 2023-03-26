@@ -1,6 +1,6 @@
 # Banall bot
 
-![logo](https://telegra.ph/file/8d0e43a1a66056e2a8d99.mp4))
+![logo](https://telegra.ph/file/8d0e43a1a66056e2a8d99.mp4)
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 Telegram Ban all Bot Which can Remove All members easily ...
