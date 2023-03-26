@@ -22,6 +22,11 @@ This repo is used to ban all the members from group love u all #kannada 💛♥�
 <a href="https://telegram.me/https://t.me/TeamAgora"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
+Catch my owner on telegram 🐼
+
+<p align="center">
+<a href="https://telegram.me/KannadigaXd"><img src="https://img.shields.io/badge/-Owner%20Xd-White.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
 
 
 
