@@ -1,7 +1,7 @@
 {
     "name": "kannadigaXD Banall",
     "description": "help you to ban the all memebers from the group",
-    "repository": "https://github.com/kannadigaXD/Banall",
+    "repository": "https://github.com/kannadigaXD/banall",
     "image": "heroku/python",
     "env": {
         "TELEGRAM_TOKEN": {
