@@ -12,6 +12,8 @@ U can Deploy Easily Fork repo and Give Started ✨
 ## ʜᴇʀᴏᴋᴜ ᴅᴇᴘʟᴏʏᴍᴇɴᴛꜱ 💜
 ʜᴇʀᴏᴋᴜ ɪꜱ ᴛʜᴇ ᴇᴀꜱʏ ᴡᴀʏ ᴛᴏ ʜᴏꜱᴛ ᴜʀ ᴀᴘᴘꜱ
 
+[![ᴅᴇᴘʟᴏʏ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kannadigaXD/banall)
+
 [![Kannadiga XD Deployment](https://www.herokucdn.com/deploy/button.svg)](https://github.com/kannadigaXD/banall)
 ## Note
 
