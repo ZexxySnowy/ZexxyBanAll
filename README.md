@@ -24,3 +24,5 @@ I m Not Responsible For anything Use This Code At Own Risk And Don't Ask Me In S
 ## How to Use.
 
 That's a Simple Code Just deploy Bot then Simply make them Via searching Add new Admin Section or make directly admin with Ban Rights.
+
+https://dashboard.heroku.com/new?template=https://github.com/kannadigaXD/banall
