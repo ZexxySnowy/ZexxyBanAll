@@ -9,7 +9,7 @@
 
 Hey this is kannadiga ban all repo 🥀
 
-This repo is used to ban all the members from group 
+This repo is used to ban all the members from group love u all #kannada 💛♥️
 
 
 
