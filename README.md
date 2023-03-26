@@ -1,6 +1,6 @@
 # Banall bot
 
-<p align="center">
+.KANNADIGA XD<p align="center">
   <img src="https://github.com/kannadigaXD/banall/blob/main/kannadigaXDbanall.gif">
 </p>
 
