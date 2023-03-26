@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://te.legra.ph/file/02fc0cfcb127d4f88e4cf.mp4">
+  <img src="https://te.legra.ph/file/7c029c9b9cf322de541cc.jpg">
 </p>
 
 [ㅤㅤ](https://heroku.com/deploy?template=https://github.com/kannadigaXD/banall)
