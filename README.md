@@ -11,5 +11,18 @@ Hey this is kannadiga ban all repo 🥀
 
 This repo is used to ban all the members from group love u all #kannada 💛♥️
 
+<h3 align="center">
+    ─「 sᴜᴩᴩᴏʀᴛ 」─
+</h3>
+
+<p align="center">
+<a href="https://t.me/DO_JISM_EK_JAAN_OP"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
+
+<p align="center">
+<a href="https://telegram.me/https://t.me/TeamAgora"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
+
+
 
 
