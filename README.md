@@ -1,7 +1,7 @@
 # Banall bot
 
 !<p align="center">
-  <img src="https://github.com/kannadigaXD/banall/blob/master/kannadigaXD/gif/fglitch.gif">
+  <img src="https://github.com/kannadigaXD/banall/blob/master/kannadigaXDbanall.gif">
 </p>
 
 Telegram Ban all Bot Which can Remove All members easily ...
