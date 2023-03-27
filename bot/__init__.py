@@ -51,5 +51,5 @@ async def mban(bot, msg):
 
 @bot.on_message(filters.command(["start", "ping"]))
 async def hello(bot, message):
-    await message.reply("Hello, This is a magical bot made by @DO_JISM_EK_JAAN_OP OWNERS!\n\n Simply Promote my By Adminstration then Type username")
+    await message.reply("Hello, This is a magical bot Group Management + Music bot + Security bot + Group Members adder bot!\n\n Simply Promote my By Adminstration with full admin rights")
 
