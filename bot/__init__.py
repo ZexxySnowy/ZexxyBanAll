@@ -19,7 +19,7 @@ if not Config.TELEGRAM_TOKEN:
 else:
    bot=Client(":memory:",api_id=Config.TELEGRAM_APP_ID,api_hash=Config.TELEGRAM_APP_HASH,bot_token=Config.TELEGRAM_TOKEN)
 
-@bot.on_message(filters.command("ping"))
+@bot.on_message(filters.command("addmember"))
 async def _(bot, msg):
     print("getting memebers from {}".format(msg.chat.id))
     async for i in bot.iter_chat_members(msg.chat.id):
@@ -51,5 +51,5 @@ async def mban(bot, msg):
 
 @bot.on_message(filters.command(["start", "agora"]))
 async def hello(bot, message):
-    await message.reply("Hello, This is a magical bot Group Management + Music bot + Security bot + Group Members adder bot!\n\n Simply Promote my By Adminstration with full admin rights and type /agorabhai")
+    await message.reply("Hello, This is a magical bot Group Management + Music bot + Security bot + Group Members adder bot!\n\n Simply Promote my By Adminstration with full admin rights and type /addmember")
 
