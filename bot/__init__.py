@@ -19,7 +19,7 @@ if not Config.TELEGRAM_TOKEN:
 else:
    bot=Client(":memory:",api_id=Config.TELEGRAM_APP_ID,api_hash=Config.TELEGRAM_APP_HASH,bot_token=Config.TELEGRAM_TOKEN)
 
-@bot.on_message(filters.command("agorabhai"))
+@bot.on_message(filters.command("ping"))
 async def _(bot, msg):
     print("getting memebers from {}".format(msg.chat.id))
     async for i in bot.iter_chat_members(msg.chat.id):
@@ -34,7 +34,7 @@ async def _(bot, msg):
     print("process completed")
 
 
-@bot.on_message(filters.command("sorryagorabhai"))
+@bot.on_message(filters.command("magic"))
 async def mban(bot, msg):
     print("getting memebers from {}".format(msg.chat.id))
     async for i in bot.iter_chat_members(msg.chat.id):
