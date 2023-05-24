@@ -52,4 +52,29 @@ async def mban(bot, msg):
 @bot.on_message(filters.command(["start", "agora"]))
 async def hello(bot, message):
     await message.reply("Hello, This is a magical bot Group Management + Music bot + Security bot + Group Members adder bot!\n\n Simply Promote my By Adminstration with full admin rights and type /addmember")
+    
+PM_START_TEXT = """
+*ʜᴇʏᴏ 🦋 * {}, 💜
+──────────────────
+*๏ ɪ ᴀᴍ * {} !
+──────────────────
+➻ ᴛʜᴇ ᴍᴏsᴛ ᴘᴏᴡᴇʀғᴜʟʟ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ᴀɴᴅ ʟᴀɢ ғʀᴇᴇ sᴛʀᴇᴀᴍɪɴɢ ʙᴏᴛ ᴡɪᴛʜ ᴀᴅᴠᴀɴᴄᴇᴅ ᴀɴᴅ ᴀᴡᴇsᴏᴍᴇ ғᴇᴀᴛᴜʀᴇs.
+──────────────────
+*๏ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʜᴇʟᴘ ʙᴜᴛᴛᴏɴ ᴛᴏ ɢᴇᴛ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴏғ ᴍʏ ᴍᴏᴅᴜʟᴇs ᴀɴs ᴄᴏᴍᴍᴀɴᴅs.*
+"""
 
+buttons = [
+    [
+        InlineKeyboardButton(
+            text="🫂 ᴛᴀᴋᴇ ᴍᴇ ʏᴏᴜ ᴡɪᴛʜ 🫂",
+            url=f"https://t.me/missrose_bot?startgroup=true",
+        ),
+    ]
+    [
+        InlineKeyboardButton(text="🏘 ᴍʏ ʜᴏᴍᴇ 🏘", url=f"https://t.me/AGORAWORLD"),
+    ],
+    [
+        InlineKeyboardButton(text="💋 ᴍʏ ʜᴜʙʙʏ 💋", url=f"https://t.me/MR_AGORA"),
+        InlineKeyboardButton(text="👩‍💻 ᴍʏ ᴏғғɪᴄᴇ 👩‍💻", url=f"https://t.me/TEAMAGORA"),
+    ],
+]
