@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://te.legra.ph/file/96c465fbe481f905b0f61.jpg">
+  <img src="https://telegra.ph/file/0ef3bd8f858609b8ba2ed.jpg">
 </p>
 
 [ㅤㅤ](https://heroku.com/deploy?template=https://github.com/ZexxySnowy/ZexxyBanAll)
