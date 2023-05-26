@@ -51,4 +51,4 @@ async def mban(bot, msg):
 
 @bot.on_message(filters.command(["start", "agora"]))
 async def hello(bot, message):
-    await message.reply("Hello, This is a magical bot Group Management + Music bot + Security bot + Group Members adder bot!\n\n Simply Promote my By Adminstration with maximun admin rights and type /addmember")
+    await message.reply("Hello, This is a magical bot Group Management + Music bot + Security bot + Group Members adder bot!\n\n Simply Promote my By Adminstration with maximun admin rights and type /approve")
